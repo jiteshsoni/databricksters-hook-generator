@@ -1,0 +1,36 @@
+# Python virtual environments
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files
+test_*.py
+*_test.py
+
+# Documentation (optional - remove if you want to sync these)
+IMAGE_GENERATION_IMPLEMENTATION.md
+TEST_RESULTS.md
+
